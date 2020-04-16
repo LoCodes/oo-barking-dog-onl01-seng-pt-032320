@@ -1,5 +1,5 @@
 # Your code goes here!
-# 
+#
 # Dog
 #   instantiates a new dog
 #   has a name
