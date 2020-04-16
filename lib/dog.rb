@@ -1,5 +1,9 @@
 # Your code goes here!
-
+# 
+# Dog
+#   instantiates a new dog
+#   has a name
+#   is able to bark
 
 class Dog
   def name=(name)
