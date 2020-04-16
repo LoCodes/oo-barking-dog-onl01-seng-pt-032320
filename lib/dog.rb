@@ -11,11 +11,11 @@ class Dog
   end
 
   def  bark=(barks)
-    @barking = bark
+    @barking = barks
   end
 
   def bark
-    @barking 
+    @barking
   end
 
 end
